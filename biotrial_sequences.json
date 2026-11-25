@@ -1,0 +1,83 @@
+[
+  {
+    "id": "GPT-ALT1-CDS01",
+    "type": "dna",
+    "sequence": "ATGGCCTCGAGCACAGGTGACCGGAGCCAGGCGGTGAGGCATGGACTGAGGGCGAAGGTGCTGACGCTGGAC",
+    "length": 72,
+    "gc_percent": 66.67,
+    "base_counts": {
+      "A": 15,
+      "C": 17,
+      "G": 31,
+      "T": 9,
+      "N": 0
+    },
+    "molecular_weight_Da": 22575.33,
+    "translation": "MASSTGDRSQAVRHGLRAKVLTLD",
+    "created": "2026-11-25T12:39:45"
+  },
+  {
+    "id": "GOT1-AST-CDS01",
+    "type": "dna",
+    "sequence": "ATGGCACCTCCGTCAGTCTTTGCCGAGGTTCCGCAGGCCCAGCCTGTCCTGGTCTTCAAGCTCACTGCCGAC",
+    "length": 72,
+    "gc_percent": 62.5,
+    "base_counts": {
+      "A": 10,
+      "C": 27,
+      "G": 18,
+      "T": 17,
+      "N": 0
+    },
+    "molecular_weight_Da": 22054.98,
+    "translation": "MAPPSVFAEVPQAQPVLVFKLTAD",
+    "created": "2026-11-25T12:41:08"
+  },
+  {
+    "id": "APOE4-RS429358",
+    "type": "dna",
+    "sequence": "GCGGACATGGAGGACGTGCGCGGCCGCCTGGTGCAGTACCGCGGCGAGGTGCAGGCCATGCTCGGCCAGAGC",
+    "length": 72,
+    "gc_percent": 73.61,
+    "base_counts": {
+      "A": 11,
+      "C": 22,
+      "G": 31,
+      "T": 8,
+      "N": 0
+    },
+    "molecular_weight_Da": 22464.21,
+    "translation": "ADMEDVRGRLVQYRGEVQAMLGQS",
+    "created": "2026-11-25T12:41:34"
+  },
+  {
+    "id": "GOT1-P17174-PEP",
+    "type": "protein",
+    "sequence": "MAPPSVFAEVPQAQPVLVFKLTADFREDPDPRKVNLGVGAYRTDDCHPWVLPVVKKVEQKIANDNSLNHEYL",
+    "length": 72,
+    "amino_acid_counts": {
+      "M": 1,
+      "A": 6,
+      "P": 8,
+      "S": 2,
+      "V": 10,
+      "F": 3,
+      "E": 4,
+      "Q": 3,
+      "L": 6,
+      "K": 5,
+      "T": 2,
+      "D": 6,
+      "R": 3,
+      "N": 4,
+      "G": 2,
+      "Y": 2,
+      "C": 1,
+      "H": 2,
+      "W": 1,
+      "I": 1
+    },
+    "molecular_weight_Da": 8115.17,
+    "created": "2026-11-25T12:41:56"
+  }
+]

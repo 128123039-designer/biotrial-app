@@ -1,0 +1,33 @@
+[
+  {
+    "capa_id": "CAPA-001",
+    "site": "SITE-703",
+    "issue": "High-Risk Subject Rate QTL Breach (50% > 30%) & Unverified SAE Withdrawal (Subject 01-703-1119)",
+    "root_cause": "Delayed post-event source data verification (tSDV) following acute Syncope SAE and elevated transaminases (AST 48 U/L, ALT 62 U/L)",
+    "action_plan": "Complete targeted SDV on Subject 01-703-1119 safety labs, confirm study drug discontinuation records, and institute mandatory 24-hour liver panel review for all active subjects",
+    "owner": "Dr. Rajeshwari K (Principal Investigator)",
+    "status": "closed",
+    "created": "2026-11-25T12:35:17",
+    "closed_date": "2026-11-25T12:37:57"
+  },
+  {
+    "capa_id": "CAPA-002",
+    "site": "SITE-705",
+    "issue": "Centralized Statistical Monitoring Alert: 100% Terminal-Digit Preference Rounding (0/5 Ending Rate > 45%)",
+    "root_cause": "Site data-entry staff manually rounded numeric AST/ALT laboratory measurements to the nearest multiple of 5 during EDC transcription instead of entering exact analyzer printouts",
+    "action_plan": "Reconcile all 6 numeric lab entries against certified central laboratory source reports, retrain site coordinators on ALCOA+ exact transcription standards, and re-run digit-preference audit",
+    "owner": "Dr. Anand Subramanian (Site Coordinator)",
+    "status": "open",
+    "created": "2026-11-25T12:36:07"
+  },
+  {
+    "capa_id": "CAPA-003",
+    "site": "SITE-709",
+    "issue": "CtQ Protocol Breach & High-Risk QTL Breach (50% > 30%): Premature Randomization of Subject 01-709-1054",
+    "root_cause": "Subject 01-709-1054 was randomized prior to final verification of baseline MMSE inclusion criteria, resulting in protocol deviation and subsequent subject discontinuation",
+    "action_plan": "Implement a mandatory two-person pre-randomization eligibility sign-off checklist and perform 100% tSDV on baseline screening logs for all remaining SITE-709 subjects",
+    "owner": "Dr. Meenakshi Sundaram (Sub-Investigator)",
+    "status": "open",
+    "created": "2026-11-25T12:36:49"
+  }
+]

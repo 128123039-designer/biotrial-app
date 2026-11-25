@@ -1,0 +1,205 @@
+[
+  {
+    "timestamp": "2026-11-25T11:30:39",
+    "user": "Viknesh S",
+    "action": "LOGIN",
+    "record_id": "Viknesh S",
+    "details": "Authenticated into Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T11:41:21",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-701-1015",
+    "details": "Enrolled at site SITE-701"
+  },
+  {
+    "timestamp": "2026-11-25T11:45:09",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-701-1023",
+    "details": "Enrolled at site SITE-701"
+  },
+  {
+    "timestamp": "2026-11-25T11:46:52",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-703-1086",
+    "details": "Enrolled at site SITE-703"
+  },
+  {
+    "timestamp": "2026-11-25T11:49:32",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-703-1119",
+    "details": "Enrolled at site SITE-703"
+  },
+  {
+    "timestamp": "2026-11-25T11:51:11",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-704-1008",
+    "details": "Enrolled at site SITE-704"
+  },
+  {
+    "timestamp": "2026-11-25T11:54:17",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-704-1079",
+    "details": "Enrolled at site SITE-704"
+  },
+  {
+    "timestamp": "2026-11-25T11:55:53",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-705-1031",
+    "details": "Enrolled at site SITE-705"
+  },
+  {
+    "timestamp": "2026-11-25T11:57:10",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-705-1142",
+    "details": "Enrolled at site SITE-705"
+  },
+  {
+    "timestamp": "2026-11-25T11:58:55",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-709-1054",
+    "details": "Enrolled at site SITE-709"
+  },
+  {
+    "timestamp": "2026-11-25T12:00:24",
+    "user": "Viknesh S",
+    "action": "ADD_PARTICIPANT",
+    "record_id": "01-709-1201",
+    "details": "Enrolled at site SITE-709"
+  },
+  {
+    "timestamp": "2026-11-25T12:11:17",
+    "user": "Viknesh S",
+    "action": "UPDATE_FOLLOWUP",
+    "record_id": "01-701-1015",
+    "details": "Status resolved -> resolved, tSDV=True"
+  },
+  {
+    "timestamp": "2026-11-25T12:35:17",
+    "user": "Viknesh S",
+    "action": "CREATE_CAPA",
+    "record_id": "CAPA-001",
+    "details": "Site SITE-703: High-Risk Subject Rate QTL Breach (50% > 30%) & Unverified SAE Withdrawal (Subject 01-703-1119)"
+  },
+  {
+    "timestamp": "2026-11-25T12:36:07",
+    "user": "Viknesh S",
+    "action": "CREATE_CAPA",
+    "record_id": "CAPA-002",
+    "details": "Site SITE-705: Centralized Statistical Monitoring Alert: 100% Terminal-Digit Preference Rounding (0/5 Ending Rate > 45%)"
+  },
+  {
+    "timestamp": "2026-11-25T12:36:49",
+    "user": "Viknesh S",
+    "action": "CREATE_CAPA",
+    "record_id": "CAPA-003",
+    "details": "Site SITE-709: CtQ Protocol Breach & High-Risk QTL Breach (50% > 30%): Premature Randomization of Subject 01-709-1054"
+  },
+  {
+    "timestamp": "2026-11-25T12:37:57",
+    "user": "Viknesh S",
+    "action": "CLOSE_CAPA",
+    "record_id": "CAPA-001",
+    "details": "CAPA verified and closed"
+  },
+  {
+    "timestamp": "2026-11-25T12:39:45",
+    "user": "Viknesh S",
+    "action": "ADD_SEQUENCE",
+    "record_id": "GPT-ALT1-CDS01",
+    "details": "Analyzed dna sequence"
+  },
+  {
+    "timestamp": "2026-11-25T12:41:08",
+    "user": "Viknesh S",
+    "action": "ADD_SEQUENCE",
+    "record_id": "GOT1-AST-CDS01",
+    "details": "Analyzed dna sequence"
+  },
+  {
+    "timestamp": "2026-11-25T12:41:34",
+    "user": "Viknesh S",
+    "action": "ADD_SEQUENCE",
+    "record_id": "APOE4-RS429358",
+    "details": "Analyzed dna sequence"
+  },
+  {
+    "timestamp": "2026-11-25T12:41:56",
+    "user": "Viknesh S",
+    "action": "ADD_SEQUENCE",
+    "record_id": "GOT1-P17174-PEP",
+    "details": "Analyzed protein sequence"
+  },
+  {
+    "timestamp": "2026-11-25T12:42:41",
+    "user": "Viknesh S",
+    "action": "LOGOUT",
+    "record_id": "Viknesh S",
+    "details": "Logged out of Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:42:53",
+    "user": "Viknesh S",
+    "action": "LOGIN",
+    "record_id": "Viknesh S",
+    "details": "Authenticated into Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:43:56",
+    "user": "Viknesh S",
+    "action": "LOGOUT",
+    "record_id": "Viknesh S",
+    "details": "Logged out of Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:44:07",
+    "user": "Ranjana Shiri PM",
+    "action": "LOGIN",
+    "record_id": "Ranjana Shiri PM",
+    "details": "Authenticated into Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:45:00",
+    "user": "Ranjana Shiri PM",
+    "action": "LOGOUT",
+    "record_id": "Ranjana Shiri PM",
+    "details": "Logged out of Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:46:05",
+    "user": "Viknesh S",
+    "action": "LOGIN",
+    "record_id": "Viknesh S",
+    "details": "Authenticated into Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T12:46:39",
+    "user": "Viknesh S",
+    "action": "LOGOUT",
+    "record_id": "Viknesh S",
+    "details": "Logged out of Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T22:33:38",
+    "user": "Viknesh S",
+    "action": "LOGIN",
+    "record_id": "Viknesh S",
+    "details": "Authenticated into Web Portal"
+  },
+  {
+    "timestamp": "2026-11-25T22:35:39",
+    "user": "Viknesh S",
+    "action": "LOGOUT",
+    "record_id": "Viknesh S",
+    "details": "Logged out of Web Portal"
+  }
+]
